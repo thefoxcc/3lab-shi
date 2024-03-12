@@ -1,1 +1,1 @@
-# 3lab-shi
+# 3lab-shi // по методу MD5 HASH
